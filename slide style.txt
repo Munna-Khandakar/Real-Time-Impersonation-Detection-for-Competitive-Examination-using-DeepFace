@@ -1,0 +1,22 @@
+Title: Bangla Semantic Error Correction Using Deep Neural 
+Network Based Sequence to Sequence Learning
+
+
+Introduction
+Research Gap (Previous research e ki gap chilo)
+Problem Statement (Ami ki problem niye kaj korbo)
+Contribution (Amar kaj er contribution ki)
+Objective (Points kore 2/3 ta...To implement a model that can...)
+Key Concepts (RNN, LSTM, GRU, Seq2Seq Model)
+Literature Review (Table kore... author name, paper name, method, dataset origin, accuracy)
+System Architecture & Methodology
+Background Tools and Technologies (NLTK, Pandas, NumPy, Tensorflow, Keras, LSTM, GRU< SeqSeq modle etc.)
+Workflow of Poposed Model (Diagram)
+Datset Preapration/ Collection
+Model Architecture
+Data Preprocessing Steps (Tokenization, Padding, One hot represenatation etc.)
+Seq2Seq Model with diagram
+Optimized values/ parameters used (optimizer konta use korsi, loss function, epochs, train test split etc.)
+Resuly Analysis and Discussion (with diagrams)
+Conclusion
+References
